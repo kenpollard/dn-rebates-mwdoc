@@ -1,0 +1,9 @@
+{
+    "accept": "Please select a file with a valid file type.",
+    "minsize": "Please select a file of at least {0} bytes.",
+    "maxsize": "Please select a file of no more than {0} bytes.",
+    "mintotalsize": "Total size of selected files should be at least {0} bytes.",
+    "maxtotalsize": "Total size of selected files should be no more than {0} bytes.",
+    "minfiles": "Please select at least {0} files.",
+    "maxfiles": "Please select no more than {0} files."
+}

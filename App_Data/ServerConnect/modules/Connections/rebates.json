@@ -1,0 +1,11 @@
+{
+    "name": "rebates",
+    "module": "dbconnector",
+    "action": "connect",
+    "options": {
+        "server": "mssql",
+        "databaseType": "SQL_Server",
+        "connectionString": "sql:Data Source=localhost;Initial Catalog=rebates_mwdoc;User ID=web;Password=KpSc$QL2014",
+        "meta"  : false
+    }
+}

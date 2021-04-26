@@ -1,0 +1,4 @@
+{
+    "exists": "Value does not exist in database.",
+    "notexists": "Value already exists in database."
+}

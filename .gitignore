@@ -1,0 +1,66 @@
+node_modules
+
+# Configuration #
+#################
+.wappler
+**/.DS_Store
+
+# Security #
+############
+
+# Backups #
+###########
+*-copy.aspx
+*_copy.aspx
+*-copy.json
+*_copy.json
+
+# Files #
+#########
+/_local
+*.xlsx
+*.csv
+*.xls
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.bz2
+*.iso
+*.jar
+*.rar
+*.sln
+*.tar
+*.zip
+*.tgz
+
+# Logs and databases #
+######################
+*.log
+*.sql
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+._*
+.idea
+
+# Vim generated files #
+######################
+*.un~
+
+# SASS #
+##########
+.sass-cache
+.*.swp
+.*.swo
+node_modules*0
+.svn
+.env
+
